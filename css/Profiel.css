@@ -1,0 +1,28 @@
+body.pagina1{
+	background-color: #FFEFD5
+}
+h1{
+	color: #FF5733
+}
+h3{
+	color: #FF5733
+}
+.photo1{
+	float: 50px
+	margin: 100px
+}
+.photo1{
+	width: 20%;
+	height: 20%;
+}
+body.pagina2{
+	background-color: #E0FFFF
+}
+.photo2{
+	float: right;
+	margin: 25px
+}
+.photo2{
+	width: 20%;
+	height: 20%;
+}
